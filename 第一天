@@ -1,0 +1,7 @@
+回声“＃--OCTO--” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git branch -M main 
+git远程添加来源https://github.com/hxyh1234/-- OCTO-。git
+ git push -u origin main
